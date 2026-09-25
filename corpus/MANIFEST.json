@@ -1,0 +1,26 @@
+{
+  "source": "https://law.moj.gov.tw/api/ch/law/json",
+  "update_date": "2026/9/18 上午 12:00:00",
+  "laws": [
+    {
+      "name": "個人資料保護法",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0050021",
+      "modified": "20251111"
+    },
+    {
+      "name": "資通安全管理法",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030297",
+      "modified": "20250924"
+    },
+    {
+      "name": "電子簽章法",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0080037",
+      "modified": "20240515"
+    },
+    {
+      "name": "著作權法",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0070017",
+      "modified": "20220615"
+    }
+  ]
+}
