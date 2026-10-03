@@ -2,6 +2,10 @@
 
 **Checks for LLM-written knowledge bases: what they catch, and what they miss.**
 
+[![Demo video: verified-rag flags misattributed citations (1:36)](docs/demo-thumbnail.png)](https://github.com/bbudaedu/verified-rag/releases/download/demo-video/verified-rag-demo-720p.mp4)
+
+*96-second demo; every command and output shown is from a real run. Also on the [release page](https://github.com/bbudaedu/verified-rag/releases/tag/demo-video) in 1080p.*
+
 LLM-written knowledge bases fail in two ways that look fine at a glance. Some
 claims have no source behind them (a *precision* problem). And most of the source
 material never makes it into the wiki (a *recall* problem). This repo is a small
